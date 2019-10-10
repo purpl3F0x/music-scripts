@@ -1,5 +1,5 @@
 """
-@descriptiom: File to rename my music folders 
+@descriptiom: Checks for properly formated music folders
 @author: Stavros Avramidis (@purpl3F0x)
 
 @usage: music_rename.py [workdir=]
